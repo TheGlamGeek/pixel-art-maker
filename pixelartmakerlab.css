@@ -1,6 +1,9 @@
 body {
+    background-image: http://res.cloudinary.com/codetoya/image/upload/v1531318753/NanoDegree/pixel-art-background.jpg;
     text-align: center;
 }
+
+
 
 h1 {
     font-family: Monoton;
